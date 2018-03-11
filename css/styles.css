@@ -18,6 +18,11 @@ margin: 0px auto;
 padding: 20px 0px 20px 0px;
 
 }
+.fa-bg{
+background-color: silver;
+margin: 0px;
+padding: 7px;
+}
 .jumbotron{
 background-color:#9575CD; 
 color:floralwhite;
